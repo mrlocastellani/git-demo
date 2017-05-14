@@ -3,3 +3,5 @@ Linha 1
 Linha 2 local
 
 Linha 4 remota
+
+Linha 7 teste merge
